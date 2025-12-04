@@ -1,1 +1,36 @@
+#  Daily Calorie Tracker CLI  
+A simple Python-based Command Line Interface (CLI) tool that helps users track their daily calorie intake, compare it with a calorie limit, and optionally save a report to a text file.
+
+---
+
+##  Project Overview
+This project is created as part of the **Programming for Problem Solving using Python** course.  
+The application allows the user to:
+
+- Enter multiple meals and their calorie amounts  
+- Calculate total and average calorie intake  
+- Compare results with a user-defined daily limit  
+- Display data in a neatly formatted table  
+- Save the session summary to a text file (`calorie_log.txt`)
+
+---
+
+## Learning Objectives
+
+- Use `input()` and type conversion in Python  
+- Store user data using **lists**  
+- Apply arithmetic and comparison operators  
+- Format output using **f-strings**  
+- Practice file handling using the `open()` function  
+- Build a real-world Python CLI tool  
+
+---
+
+## 📁 Project Structure
+daily_calorie_tracker/
+│
+├── tracker.py # Main Python script
+├── calorie_log.txt # Generated only if user saves report
+└── README.md # Project documentation
+
 
