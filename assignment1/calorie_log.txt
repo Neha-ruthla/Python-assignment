@@ -1,0 +1,9 @@
+Calorie Tracker Report
+Date: 2025-11-11 17:59:50.009106
+Meal Name	Calories
+oats           	250.00
+salad          	150.00
+Total:	400.00
+Average:	200.00
+Limit:	1200.0
+Status: Within Limit
