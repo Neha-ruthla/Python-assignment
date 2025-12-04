@@ -1,0 +1,7 @@
+# Standard Python modules
+logging
+json
+pathlib
+
+# Optional
+pytest
